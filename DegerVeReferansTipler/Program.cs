@@ -23,6 +23,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(sayilar2[0]);
 
             Console.ReadLine();
+
+
+
+
         }
     }
 }
