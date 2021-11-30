@@ -4,19 +4,16 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Mathematic // Note: actual namespace depends on the project name.
+namespace OOP1 // Note: actual namespace depends on the project name.
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            DortIslem dortIslem = new DortIslem();
-            dortIslem.Topla(5, 6);
+            Console.WriteLine("Hello World!");
 
-            dortIslem.Topla(5, 9);
 
             Console.ReadLine();
         }
     }
 }
-

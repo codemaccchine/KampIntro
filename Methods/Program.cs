@@ -1,11 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Methods;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Methods // Note: actual namespace depends on the project name.
 {
     public class Program
     {
